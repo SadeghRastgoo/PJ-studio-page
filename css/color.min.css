@@ -1,0 +1,1 @@
+:root{--primary-color: rgb(124, 72, 245);--dark-color: rgb(45, 44, 51);--gray-color: rgb(122, 122, 122);--black-color: rgb(0, 0, 0);--white-color: rgb(250, 248, 255)}.fc-white{color:var(--white-color)}.fc-dark{color:var(--dark-color)}.fc-black{color:var(--black-color)}.fc-gray{color:var(--gray-color)}
